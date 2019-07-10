@@ -1,0 +1,11 @@
+button {
+  cursor: pointer;
+}
+.gJot {
+  color: #007bff;
+  font-size: 50px;
+  margin: 20px auto;
+}
+.addBtn {
+  background-color: #585858;
+}
