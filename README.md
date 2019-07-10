@@ -1,4 +1,5 @@
 # GameJot
-Node js app for writing down video game ideas 
+Node js CRUD app for writing down video game ideas 
 
-Simple CRUD app with login functionality.
+Register/login functionality available
+
