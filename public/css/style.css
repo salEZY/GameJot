@@ -29,3 +29,7 @@ body {
 .footer-copyright > a {
   color: white;
 }
+
+.footer-copyright > a:hover {
+  text-decoration: none;
+}
