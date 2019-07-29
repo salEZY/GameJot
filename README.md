@@ -2,4 +2,4 @@
 
 Nodejs/Express/MongoDb CRUD app for writing down video game ideas
 
-Register/login functionality available
+https://www.udemy.com/nodejs-express-mongodb-dev-to-deployment/
