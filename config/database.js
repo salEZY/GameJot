@@ -1,6 +1,6 @@
 if (process.env.NODE_ENV === "production") {
   module.exports = {
-    mongoURI: "mongodb://salezy:5413zybo@ds249137.mlab.com:49137/gamejot-prod"
+    mongoURI: "mongodb+srv://salezy:5413zybo@gamejot-prod.a7jbk.mongodb.net/gamejot-prod?retryWrites=true&w=majority"
   };
   console.log("mLab db connected");
 } else {
